@@ -1,0 +1,1538 @@
+Warning: Invalid number of targets (176), truncating to 128
+Found 128 targets:
+Target 55:
+  Vertical: -435.1 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: 0 s
+  Speed X: 25.6 m/s
+  Heading: 1561.7 deg
+  Events: 0x00
+----------------
+Target 189:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: -435.1 m
+  Front time: -1696.1 s
+  Speed X: 1254.4 m/s
+  Heading: 2203.4 deg
+  Events: 0x02
+----------------
+Target 191:
+  Vertical: 18.9 m
+  Lateral: 128.1 m
+  Speed Y: 32 m/s
+  Type: Unknown (96)
+  Lane: Invalid (0)
+  Front space: 1792 m
+  Front time: -1640.1 s
+  Speed X: 18.9 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 2:
+  Vertical: 5.6 m
+  Lateral: 465.3 m
+  Speed Y: 63.4 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: -1640.1 m/s
+  Heading: 18.9 deg
+  Events: 0x00
+----------------
+Target 80:
+  Vertical: -435 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -1640.1 s
+  Speed X: 18.9 m/s
+  Heading: 51.2 deg
+  Events: 0xef
+----------------
+Target 189:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: 51.5 m
+  Front time: -435.2 s
+  Speed X: -1696.1 m/s
+  Heading: 1766.4 deg
+  Events: 0x00
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: 0 m/s
+  Type: Non-motor vehicles
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: 2278.4 s
+  Speed X: 2177.8 m/s
+  Heading: -435 deg
+  Events: 0xbf
+----------------
+Target 191:
+  Vertical: 18.9 m
+  Lateral: 153.7 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: 2
+  Front space: 3.6 m
+  Front time: 1766.5 s
+  Speed X: -1640.1 m/s
+  Heading: 18.9 deg
+  Events: 0xef
+----------------
+Target 0:
+  Vertical: 51.2 m
+  Lateral: -1640.1 m
+  Speed Y: 18.9 m/s
+  Type: Unknown (45)
+  Lane: Invalid (18)
+  Front space: -1640.1 m
+  Front time: 70.1 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 0:
+  Vertical: 0 m
+  Lateral: 2055 m
+  Speed Y: -435 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -1640.1 m
+  Front time: -416.3 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 12:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: 26 m/s
+  Heading: 0 deg
+  Events: 0x00
+----------------
+Target 189:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: 307.5 m
+  Front time: 2790.4 s
+  Speed X: 3227.6 m/s
+  Heading: 1997.1 deg
+  Events: 0xef
+----------------
+Target 4:
+  Vertical: 0.2 m
+  Lateral: 0 m
+  Speed Y: 0 m/s
+  Type: Pedestrian
+  Lane: Invalid (69)
+  Front space: -1640.1 m
+  Front time: 18.9 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 0:
+  Vertical: 522.9 m
+  Lateral: -1640.1 m
+  Speed Y: 95.7 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: -1640.1 m/s
+  Heading: 18.9 deg
+  Events: 0x00
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -1640.1 m
+  Speed Y: -416.3 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -1640.1 m
+  Front time: 18.9 s
+  Speed X: 76.8 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: 25.6 s
+  Speed X: 0 m/s
+  Heading: 0 deg
+  Events: 0x00
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -1640.1 m
+  Speed Y: -416.3 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: 0 m
+  Front time: -434.9 s
+  Speed X: -1696.1 m/s
+  Heading: 1254.4 deg
+  Events: 0x12
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (0)
+  Front space: 0.2 m
+  Front time: 0 s
+  Speed X: -435.2 m/s
+  Heading: -1696.1 deg
+  Events: 0xef
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (0)
+  Front space: 102.4 m
+  Front time: -1640.1 s
+  Speed X: 18.9 m/s
+  Heading: 465.3 deg
+  Events: 0xef
+----------------
+Target 4:
+  Vertical: 3251.5 m
+  Lateral: 1152 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -1640.1 s
+  Speed X: 1964.5 m/s
+  Heading: 0 deg
+  Events: 0x00
+----------------
+Target 189:
+  Vertical: -434.7 m
+  Lateral: -1696.1 m
+  Speed Y: 1536 m/s
+  Type: Small car
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: 153.6 s
+  Speed X: 2663.3 m/s
+  Heading: -435.2 deg
+  Events: 0xbf
+----------------
+Target 0:
+  Vertical: 1536 m
+  Lateral: 0 m
+  Speed Y: -434.7 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: 1510.4 m
+  Front time: -433.4 s
+  Speed X: -1696.1 m/s
+  Heading: -434.7 deg
+  Events: 0xbf
+----------------
+Target 191:
+  Vertical: 18.9 m
+  Lateral: 0.9 m
+  Speed Y: -435.2 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -1640.1 m
+  Front time: 18.9 s
+  Speed X: 0 m/s
+  Heading: 665.6 deg
+  Events: 0x00
+----------------
+Target 191:
+  Vertical: 146.9 m
+  Lateral: -1640.1 m
+  Speed Y: -416.3 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -1640.1 m
+  Front time: -416.3 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -1640.1 m
+  Speed Y: -416.3 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -1640.1 m
+  Front time: 18.9 s
+  Speed X: 128 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: 154 m
+  Speed Y: -435.1 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: 716.8 m
+  Front time: 0 s
+  Speed X: 0 m/s
+  Heading: 0 deg
+  Events: 0x00
+----------------
+Target 189:
+  Vertical: -434.6 m
+  Lateral: -1696.1 m
+  Speed Y: 588.8 m/s
+  Type: Small car
+  Lane: Invalid (122)
+  Front space: 128 m
+  Front time: -435.1 s
+  Speed X: -1696.1 m/s
+  Heading: 972.8 deg
+  Events: 0x00
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: 1203.2 m
+  Speed Y: -433.4 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -434.6 m
+  Front time: -1696.1 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 0:
+  Vertical: 0 m
+  Lateral: 1766.6 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (0)
+  Front space: -1640.1 m
+  Front time: -416.3 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 18:
+  Vertical: 185.9 m
+  Lateral: -426.8 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: 18.9 m
+  Front time: 102.4 s
+  Speed X: 0.1 m/s
+  Heading: 0 deg
+  Events: 0x00
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -1640.1 m
+  Speed Y: 18.9 m/s
+  Type: Small car
+  Lane: 7
+  Front space: 8.4 m
+  Front time: 522.9 s
+  Speed X: -1640.1 m/s
+  Heading: 198.1 deg
+  Events: 0xef
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: 76.8 m
+  Speed Y: 0 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: 0 m
+  Front time: 1312.6 s
+  Speed X: -435.2 m/s
+  Heading: -1696.1 deg
+  Events: 0xef
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: 1152 m
+  Speed Y: -433.4 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -434.4 m
+  Front time: -1696.1 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 0:
+  Vertical: 1792.1 m
+  Lateral: 3 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -1640.1 s
+  Speed X: -416.3 m/s
+  Heading: -1696.1 deg
+  Events: 0x00
+----------------
+Target 8:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: 11.2 m/s
+  Heading: 0.2 deg
+  Events: 0x00
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (0)
+  Front space: 204.8 m
+  Front time: -1640.1 s
+  Speed X: 18.9 m/s
+  Heading: 465.3 deg
+  Events: 0xef
+----------------
+Target 189:
+  Vertical: -435.2 m
+  Lateral: -1696.1 m
+  Speed Y: 128.3 m/s
+  Type: Small car
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: 256 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -1640.1 m
+  Speed Y: -416.3 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: 0 m
+  Front time: -434.4 s
+  Speed X: -1696.1 m/s
+  Heading: 2227.2 deg
+  Events: 0x12
+----------------
+Target 3:
+  Vertical: 0.6 m
+  Lateral: 0 m
+  Speed Y: 0 m/s
+  Type: Unknown (8)
+  Lane: 1
+  Front space: -1640.1 m
+  Front time: 18.9 s
+  Speed X: 0 m/s
+  Heading: 486.4 deg
+  Events: 0x00
+----------------
+Target 10:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: 18.9 m
+  Front time: -1640.1 s
+  Speed X: 18.9 m/s
+  Heading: 51.6 deg
+  Events: 0x70
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -435.2 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: -1640.1 m/s
+  Heading: 18.9 deg
+  Events: 0x00
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -1640.1 m
+  Speed Y: -416.3 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -435.2 m
+  Front time: -1696.1 s
+  Speed X: 102.4 m/s
+  Heading: -435.2 deg
+  Events: 0xbf
+----------------
+Target 189:
+  Vertical: 11 m
+  Lateral: -1640.1 m
+  Speed Y: -416.3 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -1640.1 m
+  Front time: -416.3 s
+  Speed X: -1696.1 m/s
+  Heading: 0 deg
+  Events: 0x0c
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (0)
+  Front space: -1640.1 m
+  Front time: 18.9 s
+  Speed X: 0.6 m/s
+  Heading: 0 deg
+  Events: 0x00
+----------------
+Target 189:
+  Vertical: -435.2 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -1640.1 s
+  Speed X: 18.9 m/s
+  Heading: 307.2 deg
+  Events: 0xef
+----------------
+Target 7:
+  Vertical: -1640.1 m
+  Lateral: 95.7 m
+  Speed Y: 0.3 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: 70.1 m
+  Front time: 0 s
+  Speed X: 25.6 m/s
+  Heading: -435.2 deg
+  Events: 0xbf
+----------------
+Target 0:
+  Vertical: 0 m
+  Lateral: 0 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: 5
+  Front space: 0 m
+  Front time: 0 s
+  Speed X: -435.2 m/s
+  Heading: -1696.1 deg
+  Events: 0x06
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: 2406.7 m/s
+  Type: Unknown (74)
+  Lane: Invalid (66)
+  Front space: 691.2 m
+  Front time: 512.1 s
+  Speed X: 204.9 m/s
+  Heading: 1511.1 deg
+  Events: 0x29
+----------------
+Target 1:
+  Vertical: 1.7 m
+  Lateral: -434.2 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (77)
+  Lane: Invalid (66)
+  Front space: 512.3 m
+  Front time: 31.1 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 70:
+  Vertical: 0 m
+  Lateral: 2055 m
+  Speed Y: -435 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -1640.1 m
+  Front time: -416.3 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 51:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: 25.6 m/s
+  Heading: 1638.9 deg
+  Events: 0x01
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -1640.1 m
+  Speed Y: -416.3 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: 0 m
+  Front time: 1305.8 s
+  Speed X: 1152 m/s
+  Heading: 3125 deg
+  Events: 0x02
+----------------
+Target 0:
+  Vertical: 0.3 m
+  Lateral: -1640.1 m
+  Speed Y: 18.9 m/s
+  Type: Unknown (31)
+  Lane: Invalid (0)
+  Front space: 1792 m
+  Front time: 59.2 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 191:
+  Vertical: 18.9 m
+  Lateral: 465.7 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: 2
+  Front space: -1640.1 m
+  Front time: -416.3 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 0:
+  Vertical: 2055 m
+  Lateral: -435 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: -1640.1 m/s
+  Heading: 18.9 deg
+  Events: 0x00
+----------------
+Target 189:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: 25.6 m/s
+  Heading: -434.6 deg
+  Events: 0xbf
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: 0 s
+  Speed X: -435 m/s
+  Heading: -1696.1 deg
+  Events: 0x00
+----------------
+Target 189:
+  Vertical: -1640.1 m
+  Lateral: 18.9 m
+  Speed Y: 0 m/s
+  Type: Medium-sized car
+  Lane: Invalid (0)
+  Front space: 0 m
+  Front time: 0 s
+  Speed X: 1792 m/s
+  Heading: 59.2 deg
+  Events: 0xef
+----------------
+Target 0:
+  Vertical: 51.2 m
+  Lateral: -1640.1 m
+  Speed Y: 18.9 m/s
+  Type: Unknown (49)
+  Lane: Invalid (18)
+  Front space: 86.3 m
+  Front time: -434.1 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 0:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (72)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -433.6 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 109:
+  Vertical: 3227.6 m
+  Lateral: 1894.7 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -1640.1 s
+  Speed X: -416.3 m/s
+  Heading: -1696.1 deg
+  Events: 0x04
+----------------
+Target 0:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: 0 m/s
+  Heading: 1894.7 deg
+  Events: 0x00
+----------------
+Target 189:
+  Vertical: -1640.1 m
+  Lateral: 18.9 m
+  Speed Y: 0 m/s
+  Type: Pedestrian
+  Lane: Invalid (0)
+  Front space: 0 m
+  Front time: 0 s
+  Speed X: 1792 m/s
+  Heading: 59.2 deg
+  Events: 0xef
+----------------
+Target 0:
+  Vertical: 76.8 m
+  Lateral: -1640.1 m
+  Speed Y: 18.9 m/s
+  Type: Unknown (48)
+  Lane: Invalid (18)
+  Front space: -1640.1 m
+  Front time: 95.7 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 1:
+  Vertical: 0 m
+  Lateral: 0 m
+  Speed Y: 0 m/s
+  Type: Unknown (70)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -433.6 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 189:
+  Vertical: 1254.4 m
+  Lateral: -433.4 m
+  Speed Y: -1696.1 m/s
+  Type: Large car
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -1640.1 s
+  Speed X: -416.3 m/s
+  Heading: -1696.1 deg
+  Events: 0xef
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -1640.1 m
+  Speed Y: 1810.9 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: 18.9 m
+  Front time: -1640.1 s
+  Speed X: -416.3 m/s
+  Heading: -1696.1 deg
+  Events: 0xef
+----------------
+Target 0:
+  Vertical: 465.3 m
+  Lateral: -1640.1 m
+  Speed Y: 146.9 m/s
+  Type: Unknown (57)
+  Lane: Invalid (0)
+  Front space: 0.3 m
+  Front time: -1640.1 s
+  Speed X: 95.7 m/s
+  Heading: 77.2 deg
+  Events: 0x7f
+----------------
+Target 35:
+  Vertical: 0 m
+  Lateral: 0 m
+  Speed Y: 0.3 m/s
+  Type: Small car
+  Lane: 5
+  Front space: 5.7 m
+  Front time: 521.9 s
+  Speed X: -1640.1 m/s
+  Heading: 146.9 deg
+  Events: 0xef
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: 76.8 m
+  Speed Y: 0 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: 0 m
+  Front time: 1287 s
+  Speed X: -435.2 m/s
+  Heading: -1696.1 deg
+  Events: 0xef
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: 1152 m
+  Speed Y: -433.4 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -434.7 m
+  Front time: -1696.1 s
+  Speed X: 1510.4 m/s
+  Heading: -435.2 deg
+  Events: 0xbf
+----------------
+Target 189:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: 18.9 m
+  Front time: 0 s
+  Speed X: 1510.4 m/s
+  Heading: 0 deg
+  Events: 0x05
+----------------
+Target 191:
+  Vertical: 18.9 m
+  Lateral: 2.6 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: 7
+  Front space: 0.5 m
+  Front time: -1640.1 s
+  Speed X: 18.9 m/s
+  Heading: 0.9 deg
+  Events: 0x00
+----------------
+Target 5:
+  Vertical: -1640.1 m
+  Lateral: 18.9 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (28)
+  Front space: -1640.1 m
+  Front time: 172.5 s
+  Speed X: 8.3 m/s
+  Heading: 4.8 deg
+  Events: 0xef
+----------------
+Target 0:
+  Vertical: 0 m
+  Lateral: 0 m
+  Speed Y: 0 m/s
+  Type: Unknown (48)
+  Lane: Invalid (0)
+  Front space: 153.6 m
+  Front time: 8.3 s
+  Speed X: 470.8 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: 972.8 m
+  Speed Y: 0 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: 0 m
+  Front time: 0 s
+  Speed X: 2.3 m/s
+  Heading: 153.6 deg
+  Events: 0xef
+----------------
+Target 189:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: 76.8 m/s
+  Heading: 0 deg
+  Events: 0x00
+----------------
+Target 189:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: -434.6 m
+  Front time: -1696.1 s
+  Speed X: 1152 m/s
+  Heading: 1717 deg
+  Events: 0x07
+----------------
+Target 0:
+  Vertical: 0 m
+  Lateral: 0 m
+  Speed Y: 1792 m/s
+  Type: Unknown (80)
+  Lane: 2
+  Front space: -1640.1 m
+  Front time: -416.3 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 191:
+  Vertical: 198.1 m
+  Lateral: -1640.1 m
+  Speed Y: -416.3 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -1640.1 m
+  Front time: -416.3 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -1640.1 m
+  Speed Y: -416.3 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -1640.1 m
+  Front time: 18.9 s
+  Speed X: 179.2 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -1640.1 m
+  Speed Y: 3218.9 m/s
+  Type: Small car
+  Lane: 3
+  Front space: 0 m
+  Front time: 0 s
+  Speed X: 25.6 m/s
+  Heading: 237.4 deg
+  Events: 0x00
+----------------
+Target 189:
+  Vertical: 0 m
+  Lateral: 2919.2 m
+  Speed Y: 1152 m/s
+  Type: Unknown (18)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: 3149.6 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 0:
+  Vertical: 1792 m
+  Lateral: 4.5 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -1640.1 s
+  Speed X: -416.3 m/s
+  Heading: -1696.1 deg
+  Events: 0x00
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (0)
+  Front space: -1640.1 m
+  Front time: 95.7 s
+  Speed X: 0.5 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 23:
+  Vertical: -435.2 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -1640.1 s
+  Speed X: 18.9 m/s
+  Heading: 204.8 deg
+  Events: 0xef
+----------------
+Target 189:
+  Vertical: 512 m
+  Lateral: 3046.4 m
+  Speed Y: 153.9 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: 0 m
+  Front time: 179.2 s
+  Speed X: 2918.5 m/s
+  Heading: 0 deg
+  Events: 0x00
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -434.2 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: -435.2 m/s
+  Heading: -1696.1 deg
+  Events: 0x00
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -1640.1 m
+  Speed Y: 18.9 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 191:
+  Vertical: 326.1 m
+  Lateral: -1640.1 m
+  Speed Y: -416.3 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -1640.1 m
+  Front time: 18.9 s
+  Speed X: -1640.1 m/s
+  Heading: 18.9 deg
+  Events: 0x04
+----------------
+Target 189:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Small car
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -1640.1 s
+  Speed X: -416.3 m/s
+  Heading: -1696.1 deg
+  Events: 0xef
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -434 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: -435.2 m/s
+  Heading: -1696.1 deg
+  Events: 0x00
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -1640.1 m
+  Speed Y: 18.9 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 68:
+  Vertical: 7.6 m
+  Lateral: 30.3 m
+  Speed Y: -434.5 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: 77.1 m
+  Front time: -435.2 s
+  Speed X: -1696.1 m/s
+  Heading: 0.2 deg
+  Events: 0x00
+----------------
+Target 2:
+  Vertical: -1640.1 m
+  Lateral: 121.3 m
+  Speed Y: 0 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: -435.2 m
+  Front time: -1696.1 s
+  Speed X: 0.5 m/s
+  Heading: 0 deg
+  Events: 0x00
+----------------
+Target 191:
+  Vertical: -1542.7 m
+  Lateral: -420.2 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: 95.7 m
+  Front time: 1903.8 s
+  Speed X: 6.6 m/s
+  Heading: 28.3 deg
+  Events: 0x14
+----------------
+Target 27:
+  Vertical: 0 m
+  Lateral: 25.7 m
+  Speed Y: 435.3 m/s
+  Type: Small car
+  Lane: Invalid (10)
+  Front space: -1640.1 m
+  Front time: 1990.1 s
+  Speed X: 83.4 m/s
+  Heading: 1410 deg
+  Events: 0x01
+----------------
+Target 0:
+  Vertical: 25.7 m
+  Lateral: 6.1 m
+  Speed Y: 7 m/s
+  Type: Small car
+  Lane: Invalid (70)
+  Front space: 59.2 m
+  Front time: -1640.1 s
+  Speed X: -416.3 m/s
+  Heading: -1696.1 deg
+  Events: 0xef
+----------------
+Target 0:
+  Vertical: 465.7 m
+  Lateral: 59.8 m
+  Speed Y: -430.5 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -1640.1 m
+  Front time: -416.3 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 189:
+  Vertical: 1287.1 m
+  Lateral: -435.2 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: -1640.1 m/s
+  Heading: 18.9 deg
+  Events: 0x00
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: 0 m/s
+  Type: Small car
+  Lane: 3
+  Front space: -435.2 m
+  Front time: -1696.1 s
+  Speed X: 793.6 m/s
+  Heading: 0 deg
+  Events: 0x46
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: 0 m
+  Speed Y: -435 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: 1254.4 m
+  Front time: -433.4 s
+  Speed X: -1696.1 m/s
+  Heading: -435 deg
+  Events: 0xbf
+----------------
+Target 0:
+  Vertical: -1640.1 m
+  Lateral: 18.9 m
+  Speed Y: 6.9 m/s
+  Type: Small car
+  Lane: Invalid (70)
+  Front space: 59.2 m
+  Front time: -1640.1 s
+  Speed X: -416.3 m/s
+  Heading: -1696.1 deg
+  Events: 0xef
+----------------
+Target 0:
+  Vertical: 469.7 m
+  Lateral: 59.7 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -1640.1 s
+  Speed X: -416.3 m/s
+  Heading: -1696.1 deg
+  Events: 0xef
+----------------
+Target 1:
+  Vertical: -428.3 m
+  Lateral: -1696.1 m
+  Speed Y: -435.2 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -1640.1 m
+  Front time: -416.3 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 189:
+  Vertical: -435 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: 0 s
+  Speed X: 76.8 m/s
+  Heading: 0 deg
+  Events: 0x00
+----------------
+Target 189:
+  Vertical: -1640.1 m
+  Lateral: -416.3 m
+  Speed Y: -1696.1 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: -435 m
+  Front time: -1696.1 s
+  Speed X: 1254.4 m/s
+  Heading: 2433.8 deg
+  Events: 0x03
+----------------
+Target 191:
+  Vertical: 121.3 m
+  Lateral: 0.1 m
+  Speed Y: 0 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: 1817.6 m
+  Front time: 410.8 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 0:
+  Vertical: 522.9 m
+  Lateral: 89.4 m
+  Speed Y: -428.2 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -1640.1 m
+  Front time: -416.3 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 189:
+  Vertical: -435.2 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -1640.1 s
+  Speed X: 18.9 m/s
+  Heading: 76.8 deg
+  Events: 0x46
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: 0 m/s
+  Type: Small car
+  Lane: 1
+  Front space: 0 m
+  Front time: 0 s
+  Speed X: 0 m/s
+  Heading: 2055 deg
+  Events: 0x02
+----------------
+Target 189:
+  Vertical: 0 m
+  Lateral: -434.9 m
+  Speed Y: -1696.1 m/s
+  Type: Small car
+  Lane: Invalid (48)
+  Front space: -433.4 m
+  Front time: -1696.1 s
+  Speed X: -434.9 m/s
+  Heading: -1696.1 deg
+  Events: 0xef
+----------------
+Target 0:
+  Vertical: 0.1 m
+  Lateral: 0 m
+  Speed Y: 0 m/s
+  Type: Pedestrian
+  Lane: Invalid (69)
+  Front space: 415.7 m
+  Front time: -1640.1 s
+  Speed X: -416.3 m/s
+  Heading: -1696.1 deg
+  Events: 0xef
+----------------
+Target 0:
+  Vertical: 465.7 m
+  Lateral: -1640.1 m
+  Speed Y: 121.3 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: -428.2 m/s
+  Type: Unknown (191)
+  Lane: Invalid (189)
+  Front space: -435.2 m
+  Front time: -1696.1 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 45:
+  Vertical: -433.4 m
+  Lateral: -1696.1 m
+  Speed Y: 2022.9 m/s
+  Type: Small car
+  Lane: 1
+  Front space: -435.2 m
+  Front time: -1696.1 s
+  Speed X: 102.7 m/s
+  Heading: 3251.5 deg
+  Events: 0x00
+----------------
+Target 0:
+  Vertical: 0 m
+  Lateral: 25.6 m
+  Speed Y: 0 m/s
+  Type: Unknown (5)
+  Lane: Invalid (79)
+  Front space: 2534.4 m
+  Front time: -433.2 s
+  Speed X: -1696.1 m/s
+  Heading: -434.7 deg
+  Events: 0xbf
+----------------
+Target 191:
+  Vertical: 18.9 m
+  Lateral: 0.3 m
+  Speed Y: 0 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: 1792.1 m
+  Front time: 1.6 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 191:
+  Vertical: 18.9 m
+  Lateral: 465.3 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: 5
+  Front space: -1640.1 m
+  Front time: 18.9 s
+  Speed X: 2.5 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -1640.1 m
+  Speed Y: 2834.9 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: 0 m
+  Front time: 2.5 s
+  Speed X: 128 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 189:
+  Vertical: 1510.4 m
+  Lateral: -435.2 m
+  Speed Y: -1696.1 m/s
+  Type: Small car
+  Lane: 6
+  Front space: 2663.3 m
+  Front time: -435.2 s
+  Speed X: -1696.1 m/s
+  Heading: -1640.1 deg
+  Events: 0xbd
+----------------
+Target 59:
+  Vertical: 0 m
+  Lateral: -434.7 m
+  Speed Y: -1696.1 m/s
+  Type: Small car
+  Lane: Invalid (59)
+  Front space: -433.4 m
+  Front time: -1696.1 s
+  Speed X: 2509.4 m/s
+  Heading: 1228.8 deg
+  Events: 0x00
+----------------
+Target 0:
+  Vertical: 0 m
+  Lateral: 0 m
+  Speed Y: 0 m/s
+  Type: Small car
+  Lane: Invalid (48)
+  Front space: 0 m
+  Front time: 2509.4 s
+  Speed X: 2560 m/s
+  Heading: -433.4 deg
+  Events: 0xbf
+----------------
+Target 1:
+  Vertical: -1640.1 m
+  Lateral: 18.9 m
+  Speed Y: 3.8 m/s
+  Type: Small car
+  Lane: Invalid (0)
+  Front space: 0 m
+  Front time: 0 s
+  Speed X: 588.8 m/s
+  Heading: 0 deg
+  Events: 0x06
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (239)
+  Front space: -1696.1 m
+  Front time: -1640.1 s
+  Speed X: 18.9 m/s
+  Heading: 0.3 deg
+  Events: 0x00
+----------------
+Target 191:
+  Vertical: -416.3 m
+  Lateral: -1696.1 m
+  Speed Y: -1640.1 m/s
+  Type: Unknown (189)
+  Lane: Invalid (0)
+  Front space: 153.6 m
+  Front time: -1640.1 s
+  Speed X: 18.9 m/s
+  Heading: 465.3 deg
+  Events: 0x43
+----------------
+Target 1:
+  Vertical: 0 m
+  Lateral: 0 m
+  Speed Y: 0 m/s
+  Type: Unknown (70)
+  Lane: Invalid (80)
+  Front space: -435 m
+  Front time: -1696.1 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
+Target 239:
+  Vertical: -1696.1 m
+  Lateral: -434.5 m
+  Speed Y: -1696.1 m/s
+  Type: Unknown (239)
+  Lane: Invalid (191)
+  Front space: -416.3 m
+  Front time: -1696.1 s
+  Speed X: -1640.1 m/s
+  Heading: -416.3 deg
+  Events: 0xbf
+----------------
